@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.Client", "BlogApp.Client\BlogApp.Client.csproj", "{02DA6D0F-B5AE-4D2A-8C74-4ED55B38C49E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.Server", "BlogApp.Server\BlogApp.Server.csproj", "{424997B6-0884-4705-AB39-4A4806F548C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.Shared", "BlogApp.Shared\BlogApp.Shared.csproj", "{8B816B68-26C2-4DCC-A6A4-7049D7E78385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.Client", "BlogApp.Client\BlogApp.Client.csproj", "{7E6B8A56-4F82-4061-A472-CE06ED3AC860}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,10 +12,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{02DA6D0F-B5AE-4D2A-8C74-4ED55B38C49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{02DA6D0F-B5AE-4D2A-8C74-4ED55B38C49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{02DA6D0F-B5AE-4D2A-8C74-4ED55B38C49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{02DA6D0F-B5AE-4D2A-8C74-4ED55B38C49E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{424997B6-0884-4705-AB39-4A4806F548C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{424997B6-0884-4705-AB39-4A4806F548C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{424997B6-0884-4705-AB39-4A4806F548C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -24,5 +20,9 @@ Global
 		{8B816B68-26C2-4DCC-A6A4-7049D7E78385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B816B68-26C2-4DCC-A6A4-7049D7E78385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B816B68-26C2-4DCC-A6A4-7049D7E78385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E6B8A56-4F82-4061-A472-CE06ED3AC860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6B8A56-4F82-4061-A472-CE06ED3AC860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6B8A56-4F82-4061-A472-CE06ED3AC860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6B8A56-4F82-4061-A472-CE06ED3AC860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
